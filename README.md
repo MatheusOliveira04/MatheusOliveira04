@@ -14,9 +14,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img height="150" style="border-radius:50px;"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          
-</div>
+<img height="150" style="border-radius:50px;" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="150" style="border-radius:50px;" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="150" style="border-radius:50px;" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />               
+  </div>
   
 ## <div>
 <a href = "mailto:samatheus999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
