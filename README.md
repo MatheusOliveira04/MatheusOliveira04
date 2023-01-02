@@ -24,7 +24,7 @@
 <a href="https://instagram.com/mattheus_osa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/Matheus19sa/MatheusOliveir/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MatheusOliveira04/MatheusOliveira04/blob/output/github-contribution-grid-snake.svg)
 
 
 
