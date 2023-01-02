@@ -3,14 +3,14 @@
 
 - 💻 Estudando Sistemas de Informação em UNISUL, SC
 - 🌱 Estudando Java
-- 💾 Estudando Modelagem de Software
+- 💾 Estudou Modelagem de Software
 - 📑 Gmail: samatheus999@gmail.com
 - 📱 Telefone para contato: (48)99845-0742
 
 <div align="center">
-  <a href="https://github.com/Matheus19sa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus19sa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus19sa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/MatheusOliveira04">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira04&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@
   
 ## <div>
 <a href = "mailto:samatheus999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/mattheus_osa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ![snake gif](https://github.com/Matheus19sa/Matheus19sa/blob/output/github-contribution-grid-snake.svg)
