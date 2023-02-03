@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Matheus de Oliveira Sá
 
 
-- 💻 Estudando Sistemas de Informação em UNISUL, SC
-- 🌱 Estudando Java
-- 💾 Estudou Modelagem de Software
+- 💻 Cursando Sistemas de Informação em UNISUL, SC
+- 🌱 Conhecimento em Java
+- 💾 Conhecimento em Modelagem de Software
 - 📑 Gmail: samatheus999@gmail.com
 - 📱 Telefone para contato: (48)99845-0742
 
