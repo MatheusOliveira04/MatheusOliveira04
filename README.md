@@ -2,7 +2,7 @@
 
 
 - 💻 Cursando Sistemas de Informação em UNISUL, SC
-- 🌱 Conhecimento em Java
+- 🌱 Conhecimento em Java, Spring, Javascript (html/css), Angular, e2e tests(Cypress), Banco de dados (Postgress , MySQL)
 - 💾 Conhecimento em Modelagem de Software
 - 📑 Gmail: samatheus999@gmail.com
 - 📱 Telefone para contato: (48)99845-0742
