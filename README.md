@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 ### Olá! Eu sou o Matheus de Oliveira Sá
 
 
