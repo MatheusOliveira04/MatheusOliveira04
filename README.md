@@ -56,5 +56,6 @@
 
 ### My main projects and contributions
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=MatheusOliveira04&repo=Events&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=MatheusOliveira04&repo=spring-store&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/MatheusOliveira04/spring-store])
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=MatheusOliveira04&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusOliveira04/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=MatheusOliveira04&repo=Events&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusOliveira04/Events)
